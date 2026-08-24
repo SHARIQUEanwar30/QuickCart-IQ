@@ -96,4 +96,3 @@ The full `.pbix` file is in [`powerbi/QuickCart_IQ_Dashboard.pbix`](powerbi/Quic
 
 ---
 
-*Built as a portfolio project for Data/Business Analyst roles.*
